@@ -4,7 +4,7 @@ Creare un Dataset
 Obiettivo: Creare un dataset da fonti diverse ed eterogenee per un futuro utilizzo nell’ambito di una
 attività di data science, per esempio come dataset di training di un modello predittivo.
 
-Sorgenti: almeno 2 sorgenti dati, da fonti deverse fra loro e per le quali è necessario utilizzare API o
+Sorgenti: almeno 2 sorgenti dati, da fonti diverse fra loro e per le quali è necessario utilizzare API o
 tecniche di scraper. E’ ammesso il download solo dalla terza sorgente in poi
 
 Storage: su database. Nel nostro caso NoSql (mongodb)
