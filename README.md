@@ -15,3 +15,10 @@ quando e se fare improvement.
 
 Integrazione: è possibile integrare i dataset oppure arricchire il dataset con un altro dataset, ma non è
 ammissibile che l'integrazione sia solo l’unione insiemistica dei due dataset
+
+Come consegnare: il gruppo dovrà condividere una cartella drive con una relazione tecnico scientifica che
+illustri: il problema da affrontare, il processo che è stato eseguito, le sorgenti dati scaricate e
+come sono state scaricate. Un analisi esplorativa dei dati grezzi, il processo di
+modellazione/cleaning/integrazione e la memorizzazione nel dbms selezionato. Tutte le
+scelte vanno motivate adeguatamente. Nella cartella andrà inserito il dataset creato, il
+codice prodotto e le sorgenti dati scaricate.
