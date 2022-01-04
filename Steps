@@ -1,1 +1,2 @@
 1) Trovare sorgenti da cui estrarre i dati. Viene implementata una soluzione basata sulle API.
+2) Implementare tecniche di API su due fonti diverse (twitter/binance)
