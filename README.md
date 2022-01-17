@@ -26,3 +26,5 @@ codice prodotto e le sorgenti dati scaricate.
 Sezione TWITTER:
 Link per progetto interessante
 https://github.com/fpetru/python-twitter-vscode/blob/master/retrieve.py
+Link per documentazione libreria TwitterApi:
+https://github.com/geduldig/TwitterAPI/tree/master/examples/v1.1
