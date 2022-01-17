@@ -22,3 +22,7 @@ come sono state scaricate. Un analisi esplorativa dei dati grezzi, il processo d
 modellazione/cleaning/integrazione e la memorizzazione nel dbms selezionato. Tutte le
 scelte vanno motivate adeguatamente. Nella cartella andrà inserito il dataset creato, il
 codice prodotto e le sorgenti dati scaricate.
+
+Sezione TWITTER:
+Link per progetto interessante
+https://github.com/fpetru/python-twitter-vscode/blob/master/retrieve.py
