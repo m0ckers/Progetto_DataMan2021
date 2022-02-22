@@ -1,2 +1,7 @@
 1) Trovare sorgenti da cui estrarre i dati. Viene implementata una soluzione basata sulle API.
 2) Implementare tecniche di API su due fonti diverse (twitter/binance)
+3) Set up di mongodb, download e creazione database, é stato fondaentale un suggerimento del professore per capire come accedervi da python.
+4) Documentazione su come strutturare il codice da eseguire per ottenere streaming dati. Vengono scelte due diverse forme di ciclizzazione.
+4) Vengono eseguiti vari test per testare la soliditá del codice, essendo che deve andare per 7 gg di fila senza interruzioni, é facilmente possibile 
+che questo si blocchi per un motivo o per l'altro.
+
